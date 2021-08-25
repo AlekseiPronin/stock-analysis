@@ -16,6 +16,7 @@ The data used for this project included stock information of 12 companies. The d
 ## Results
 
 Before start refactoring, the original code runtime was tested. Below you can see the time for both 2017 and 2018 years.
+
 ![2017](https://github.com/AlekseiPronin/stock-analysis/blob/main/Stock%202017.png)
 ![2018](https://github.com/AlekseiPronin/stock-analysis/blob/main/Stock%202018.png)
 
